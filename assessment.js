@@ -1,6 +1,6 @@
 // #1 create a variable called 'myName' and assign it to your name as a string
 
-var myName='Jitender Singh';
+var myName='Jitender Singh, yes thats my name';
 
 console.log(myName);
 
